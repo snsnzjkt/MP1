@@ -15,7 +15,7 @@ Password: `app`
 3. Right-click on Libraries and click Add Library...
 4. Insert the .jar file
 
-# Database
+# Database details
 Table name: `USERS`
 
 Columns:
