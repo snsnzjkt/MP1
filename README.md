@@ -23,7 +23,7 @@ Columns:
 - `Password` (VARCHAR 20 NOT NULL)
 - `UserRole` (VARCHAR 10 NOT NULL)
 
-# Business rules
+# Business rules (WIP)
 - Guests can only view records
 - Admins can add data
 - Admins can delete all others' data
